@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.teamLogo {
+  width: 220px;
+}
+
+.main_card {
+  background-color: #1e293b;
+  border-radius: 10px;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 1100px;
+  height: 300px;
+}
+.left_card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.latest_bg_card {
+  color: white;
+}
+.right_card {
+  text-align: right;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
